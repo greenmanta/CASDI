@@ -1,0 +1,193 @@
+Kode	group	dom	sex	age	agemom	agedad	edumon	edudad	workmom	workdad	cmv_ai	il1b	il6	melatonin	il6_snp	il1b_snp	fish	bambi	ssp	scq
+1034	ASD	1	L	5	33	33	UNIV	UNIV	Not working	Working	1.15	0	53.07	22.03	CG	CC	Good	Moderate	Likely Problematic	Abnormal
+1097	ASD	2	L	5	32	33	UNIV	UNIV	Not working	Working	8.344	0	10.03	21.44	CC	CT	Good	Moderate	Likely Problematic	Normal
+1021	ASD	1	L	4	25	35	NON-UNIV	NON-UNIV	Not working	Not working	9.304	45.57	66.48	20.69	CC	CT	Good	Moderate	Likely Problematic	Abnormal
+1100	ASD	2	L	5	41	43	UNIV	UNIV	Working	Working	10.285	0	10.95	21.74	CC	CC	Moderate	Moderate	Likely Problematic	Abnormal
+1041	ASD	1	L	3	29	39	NON-UNIV	UNIV	Not working	Working	18.713	0	14.05	23.5	CG	CC	Moderate	Moderate	Likely Problematic	Normal
+1003	ASD	1	L	3	28	33	UNIV	UNIV	Not working	Working	14.357	0	15.04	21.44	CG	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1005	ASD	1	P	5	35	40	UNIV	UNIV	Not working	Working	15	0	18.84	21.54	CG	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1024	ASD	1	L	4	36	38	UNIV	UNIV	Not working	Working	1.909	0	5.47	18.81	CG	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1085	ASD	2	L	4	35	35	UNIV	UNIV	Working	Working	13.312	1.06	18.31	20.93	CC	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1019	ASD	3	L	3	30	33	NON-UNIV	UNIV	Not working	Working	16.15	9.2	29.87	21.68	CC	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1007	ASD	2	L	5	32	32	UNIV	UNIV	Not working	Working	2.859	14.6	25.58	20.9	GG	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1092	ASD	2	L	3	32	33	UNIV	UNIV	Working	Working	14.852	23.64	28.53	20.97	CG	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1014	ASD	3	L	4	36	37	UNIV	UNIV	Not working	Working	11.276	44.3	32.46	20.87	CC	CT	Moderate	Moderate	Likely Problematic	Abnormal
+1031	ASD	1	L	3	32	35	UNIV	UNIV	Not working	Working	1.582	2.79	17.61	20.77	CG	CC	Good	Normal	Likely Problematic	Abnormal
+1002	ASD	1	L	4	31	32	UNIV	UNIV	Working	Working	1.287	0	19.3	21.41	CG	CT	Good	Severe	Likely Problematic	Abnormal
+1044	ASD	2	L	5	30	35	UNIV	NON-UNIV	Not working	Working	20.084	0	15.04	22.04	CG	CT	Good	Severe	Likely Problematic	Abnormal
+1067	ASD	1	L	4	35	38	UNIV	UNIV	Working	Working	11.424	48.93	50.69	22.05	CG	CT	Good	Severe	Likely Problematic	Normal
+1095	ASD	2	L	4	39	60	NON-UNIV	UNIV	Working	Working	9.177	53.47	62.97	20.64	GG	CT	Good	Severe	Likely Problematic	Abnormal
+1068	ASD	3	L	4	31	33	UNIV	UNIV	Not working	Working	11.814	0	13.34	21.79	CC	CC	Moderate	Severe	Likely Problematic	Normal
+1037	ASD	2	P	5	37	37	UNIV	UNIV	Not working	Working	2.648	0	26.25	21.11	CC	CT	Moderate	Severe	Likely Problematic	Normal
+1072	ASD	1	L	4	35	52	UNIV	UNIV	Not working	Working	2.743	0	10.48	21.93	CG	CT	Moderate	Severe	Likely Problematic	Abnormal
+1075	ASD	1	L	5	30	30	UNIV	UNIV	Not working	Working	8.523	0	11.79	23	GG	CT	Moderate	Severe	Likely Problematic	Abnormal
+1017	ASD	2	L	3	30	33	UNIV	UNIV	Working	Working	10.359	0.38	10.02	22.11	CG	CT	Moderate	Severe	Likely Problematic	Abnormal
+1093	ASD	1	P	4	28	30	UNIV	UNIV	Not working	Working	13.597	12.13	18.57	21.16	CC	CT	Moderate	Severe	Likely Problematic	Abnormal
+1016	ASD	1	L	3	26	33	NON-UNIV	NON-UNIV	Working	Working	6.762	21.14	26.51	20.26	GG	CT	Moderate	Severe	Likely Problematic	Abnormal
+1035	ASD	2	L	5	32	34	UNIV	UNIV	Not working	Working	12.31	28.16	39.37	21.67	CC	CT	Moderate	Severe	Likely Problematic	Abnormal
+1091	ASD	2	L	4	33	38	UNIV	UNIV	Working	Working	14.61	32.66	42.45	20.69	GG	CT	Moderate	Severe	Likely Problematic	Abnormal
+1057	ASD	1	L	4	31	39	NON-UNIV	UNIV	Not working	Working	11.276	69.47	80.53	21.32	CC	CT	Moderate	Severe	Likely Problematic	Abnormal
+1033	ASD	2	L	3	38	37	UNIV	UNIV	Not working	Working	12.205	32.85	32.7	25.2	CC	CT	Worse	Severe	Likely Problematic	Abnormal
+1026	ASD	1	P	4	32	32	UNIV	UNIV	Not working	Working	1.582	0	3.22	21.25	CC	CT	Good	Moderate	Problematic	Abnormal
+1045	ASD	3	L	4	36	37	NON-UNIV	UNIV	Working	Working	8.745	53.24	67.49	20.68	CC	CT	Good	Moderate	Problematic	Abnormal
+1046	ASD	3	P	5	36	40	UNIV	UNIV	Not working	Working	9.03	0	8.5	19.46	CC	CT	Moderate	Moderate	Problematic	Abnormal
+1013	ASD	1	L	5	38	44	UNIV	UNIV	Not working	Working	3.819	0	15.04	20.2	GG	CT	Moderate	Moderate	Problematic	Abnormal
+1087	ASD	2	L	3	32	31	UNIV	UNIV	Working	Working	12.068	0	13.38	21.4	GG	CT	Moderate	Moderate	Problematic	Abnormal
+1038	ASD	1	L	3	27	28	UNIV	UNIV	Not working	Working	13.407	2.79	18.12	19.31	CG	CT	Moderate	Moderate	Problematic	Abnormal
+1077	ASD	2	L	3	31	38	UNIV	UNIV	Not working	Working	9.146	20.7	26.77	21.07	GG	CT	Moderate	Moderate	Problematic	Abnormal
+1025	ASD	1	L	5	45	48	UNIV	UNIV	Not working	Working	2.184	0	10.02	22.59	CC	CT	Good	Severe	Problematic	Abnormal
+1071	ASD	2	L	3	34	32	UNIV	UNIV	Not working	Working	18.85	0	13.7	22.47	CC	CT	Good	Severe	Problematic	Abnormal
+1082	ASD	1	L	5	40	43	UNIV	UNIV	Working	Working	2.827	0	61.06	22.03	CG	CT	Good	Severe	Problematic	Abnormal
+1096	ASD	2	L	5	32	37	UNIV	UNIV	Not working	Working	6.593	5.63	14.11	21.99	CG	CT	Good	Severe	Problematic	Abnormal
+1065	ASD	1	L	4	29	31	NON-UNIV	NON-UNIV	Not working	Working	9.705	9.99	18.61	23.24	CG	CT	Good	Severe	Problematic	Abnormal
+1088	ASD	2	P	5	29	29	UNIV	UNIV	Not working	Working	8.713	16.24	19.78	21.38	CC	CT	Good	Severe	Problematic	Abnormal
+1009	ASD	2	L	5	28	30	UNIV	NON-UNIV	Not working	Working	9.873	18.05	27.38	22.21	CG	CT	Good	Severe	Problematic	Abnormal
+1042	ASD	2	L	3	35	35	UNIV	UNIV	Working	Working	12.553	21.69	23.82	20.36	CC	CT	Good	Severe	Problematic	Abnormal
+1099	ASD	2	L	5	37	40	UNIV	UNIV	Working	Working	1.561	0	13.38	20.71	CC	CC	Moderate	Severe	Problematic	Abnormal
+1074	ASD	1	P	5	34	35	UNIV	UNIV	Not working	Working	2.194	2.04	12.59	24.23	CC	CC	Moderate	Severe	Problematic	Abnormal
+1084	ASD	1	L	4	36	38	UNIV	UNIV	Working	Working	10.359	7.89	18.82	20.86	CC	CC	Moderate	Severe	Problematic	Abnormal
+1061	ASD	2	P	3	30	31	UNIV	UNIV	Not working	Working	3.122	12.37	23.5	21.67	CC	CC	Moderate	Severe	Problematic	Abnormal
+1101	ASD	2	L	5	29	29	NON-UNIV	NON-UNIV	Not working	Working	1.234	13.46	13.38	20.93	CC	CC	Moderate	Severe	Problematic	Normal
+1055	ASD	3	L	5	37	44	UNIV	UNIV	Not working	Working	1.266	26.41	26.77	21.89	CG	CC	Moderate	Severe	Problematic	Abnormal
+1073	ASD	1	P	5	32	37	UNIV	NON-UNIV	Not working	Working	3.618	58.71	76.41	21.27	CG	CC	Moderate	Severe	Problematic	Abnormal
+1079	ASD	3	P	5	36	36	UNIV	UNIV	Working	Working	3.618	58.76	74.53	23.49	CC	CC	Moderate	Severe	Problematic	Abnormal
+1022	ASD	3	L	5	43	46	NON-UNIV	NON-UNIV	Not working	Not working	8.586	0	16.25	19.74	CC	CT	Moderate	Severe	Problematic	Abnormal
+1043	ASD	2	L	5	38	38	UNIV	UNIV	Not working	Working	1.487	0	19.96	22.35	CC	CT	Moderate	Severe	Problematic	Abnormal
+1090	ASD	1	P	5	32	32	UNIV	UNIV	Not working	Working	2.236	0	4.13	21.2	CC	CT	Moderate	Severe	Problematic	Abnormal
+1080	ASD	2	L	3	32	31	UNIV	UNIV	Working	Working	3.481	0	9.03	21.95	CG	CT	Moderate	Severe	Problematic	Abnormal
+1020	ASD	2	L	5	31	33	UNIV	UNIV	Not working	Working	9.589	0	7.38	21.49	GG	CT	Moderate	Severe	Problematic	Abnormal
+1094	ASD	1	L	4	30	31	UNIV	UNIV	Working	Working	11.023	1.06	19.3	20.6	CC	CT	Moderate	Severe	Problematic	Abnormal
+1054	ASD	2	P	4	31	40	UNIV	UNIV	Not working	Working	12.068	4.14	17.61	21.12	CC	CT	Moderate	Severe	Problematic	Abnormal
+1004	ASD	2	L	4	33	36	UNIV	UNIV	Working	Working	3.797	4.14	35.54	20.39	CG	CT	Moderate	Severe	Problematic	Abnormal
+1089	ASD	2	L	4	31	32	UNIV	UNIV	Not working	Working	12.964	7.37	16.67	20.91	CG	CT	Moderate	Severe	Problematic	Abnormal
+1098	ASD	2	L	5	28	28	NON-UNIV	NON-UNIV	Not working	Working	2.722	7.37	10.49	20.35	CG	CT	Moderate	Severe	Problematic	Abnormal
+1060	ASD	3	P	5	36	37	UNIV	UNIV	Not working	Working	9.578	9.2	28.41	21.2	CG	CT	Moderate	Severe	Problematic	Abnormal
+1029	ASD	2	L	3	27	27	NON-UNIV	NON-UNIV	Not working	Working	9.525	12.97	26.64	20.91	CG	CT	Moderate	Severe	Problematic	Abnormal
+1078	ASD	1	L	4	33	33	UNIV	UNIV	Not working	Working	8.586	14.34	23.17	22.6	CG	CT	Moderate	Severe	Problematic	Abnormal
+1086	ASD	1	L	5	39	40	UNIV	NON-UNIV	Not working	Working	14.262	19.82	23.93	20.39	CC	CT	Moderate	Severe	Problematic	Abnormal
+1081	ASD	1	L	5	39	46	NON-UNIV	NON-UNIV	Not working	Working	18.428	21.19	24.44	21.83	CC	CT	Moderate	Severe	Problematic	Abnormal
+1032	ASD	1	L	5	33	33	UNIV	UNIV	Not working	Not working	17.078	21.69	25.16	20.7	CG	CT	Moderate	Severe	Problematic	Abnormal
+1030	ASD	2	L	5	31	32	UNIV	UNIV	Working	Working	2.669	22.09	30.35	21.76	CG	CT	Moderate	Severe	Problematic	Abnormal
+1058	ASD	1	L	4	26	29	UNIV	NON-UNIV	Not working	Not working	13.217	22.48	29.47	21.57	CG	CT	Moderate	Severe	Problematic	Abnormal
+1006	ASD	2	P	4	30	36	UNIV	UNIV	Not working	Working	4.093	27.53	41.72	23.17	CC	CT	Moderate	Severe	Problematic	Abnormal
+1049	ASD	2	L	4	32	37	UNIV	UNIV	Not working	Working	3.08	33.21	44.02	22.85	CG	CT	Moderate	Severe	Problematic	Abnormal
+1027	ASD	2	L	3	34	32	UNIV	UNIV	Working	Working	3.386	34.51	48.99	21.58	CG	CT	Moderate	Severe	Problematic	Abnormal
+1066	ASD	2	L	5	30	31	NON-UNIV	UNIV	Not working	Working	12.595	38.41	11.79	22.31	CG	CT	Moderate	Severe	Problematic	Abnormal
+1023	ASD	2	L	4	25	30	NON-UNIV	UNIV	Working	Working	6.962	43.13	66.1	20.4	CC	CT	Moderate	Severe	Problematic	Abnormal
+1048	ASD	2	L	4	33	31	UNIV	UNIV	Not working	Working	3.481	49.18	62.94	21.59	CG	CT	Moderate	Severe	Problematic	Abnormal
+1056	ASD	1	L	4	30	33	UNIV	UNIV	Not working	Working	5.116	52.97	53.19	20.76	CC	CT	Moderate	Severe	Problematic	Abnormal
+1053	ASD	3	L	4	31	37	NON-UNIV	UNIV	Not working	Working	14.019	63.42	72.75	21.99	CG	CT	Moderate	Severe	Problematic	Abnormal
+1001	ASD	2	L	5	40	47	UNIV	UNIV	Working	Working	19.905	68.78	79.94	21.61	CG	CT	Moderate	Severe	Problematic	Abnormal
+1012	ASD	1	L	5	29	30	UNIV	UNIV	Not working	Working	17.827	68.78	80.35	21.29	CG	CT	Moderate	Severe	Problematic	Abnormal
+1050	ASD	2	L	5	34	34	UNIV	UNIV	Not working	Working	20.095	70.1	80.23	22.28	CG	CT	Moderate	Severe	Problematic	Abnormal
+1069	ASD	2	P	5	33	34	UNIV	UNIV	Working	Not working	9.589	0	21.19	22.01	CC	CT	Good	Moderate	Typical	Normal
+1010	ASD	2	L	5	39	41	UNIV	UNIV	Not working	Working	2.574	0	13.34	23.2	CG	CT	Good	Moderate	Typical	Abnormal
+1062	ASD	2	L	3	40	46	UNIV	UNIV	Not working	Working	1.582	0	9.53	21.85	GG	CT	Good	Moderate	Typical	Normal
+1083	ASD	1	P	5	40	41	UNIV	UNIV	Working	Working	3.017	0	10.95	20.79	CC	CT	Moderate	Moderate	Typical	Normal
+1047	ASD	1	L	4	38	38	UNIV	UNIV	Not working	Working	11.382	11.41	15.04	21.15	CG	CT	Moderate	Moderate	Typical	Abnormal
+1039	ASD	2	L	4	32	33	UNIV	UNIV	Not working	Working	1.551	13.54	17.61	21.26	CG	CT	Moderate	Moderate	Typical	Normal
+1008	ASD	2	L	4	27	28	UNIV	UNIV	Not working	Working	20.517	16.24	32.21	22.35	GG	CT	Moderate	Moderate	Typical	Abnormal
+1040	ASD	3	L	4	31	31	UNIV	UNIV	Working	Working	1.783	0	6.77	22.11	CC	CT	Good	Normal	Typical	Normal
+1051	ASD	1	P	5	41	39	S3	UNIV	Working	Working	6.435	39.47	49.02	22.16	CG	CC	Good	Severe	Typical	Normal
+1059	ASD	1	P	5	36	35	UNIV	UNIV	Working	Working	2.605	33.46	37.89	21.67	CG	CT	Good	Severe	Typical	Normal
+1018	ASD	1	L	4	36	36	UNIV	UNIV	Not working	Working	1.804	0	17.87	22.44	CC	CC	Moderate	Severe	Typical	Normal
+1036	ASD	1	P	4	26	32	NON-UNIV	NON-UNIV	Not working	Working	12.753	0	16.25	20.74	CC	CT	Moderate	Severe	Typical	Normal
+1011	ASD	1	P	5	42	47	UNIV	UNIV	Working	Working	1.371	0	14.05	21.47	CG	CT	Moderate	Severe	Typical	Abnormal
+1015	ASD	1	L	4	40	58	NON-UNIV	UNIV	Working	Working	10.475	0	15.35	21.71	CG	CT	Moderate	Severe	Typical	Abnormal
+1052	ASD	2	L	4	41	45	UNIV	UNIV	Not working	Working	11.108	0	17.35	22.54	CG	CT	Moderate	Severe	Typical	Normal
+1064	ASD	2	P	2	44	43	UNIV	UNIV	Not working	Working	1.688	28.7	21.94	23.49	CC	CT	Moderate	Severe	Typical	Normal
+1063	ASD	2	P	3	27	29	UNIV	NON-UNIV	Working	Working	11.487	43.61	61.95	21.05	CC	CT	Moderate	Severe	Typical	Abnormal
+2065	NASD	1	L	3	30	30	UNIV	UNIV	Not working	Working	4.082278481	0	0	22.75	CG	CT	Moderate	Moderate	Likely Problematic	Normal
+2088	NASD	2	L	4	32	32	UNIV	UNIV	Not working	Working	9.778481013	0	0	23.09	GG	CT	Moderate	Moderate	Likely Problematic	Normal
+2008	NASD	1	L	4	32	32	UNIV	UNIV	Not working	Working	1.339662447	18.28	19.54	21.52	CG	CT	Moderate	Moderate	Likely Problematic	Normal
+2092	NASD	3	P	3	35	36	UNIV	UNIV	Working	Working	15.70675105	27.69	48.76	24.29	CG	CT	Good	Severe	Likely Problematic	Normal
+2035	NASD	2	L	4	29	33	UNIV	NON-UNIV	Working	Working	8.554852321	35.52	41.68	23.12	CG	CT	Good	Severe	Likely Problematic	Normal
+2026	NASD	1	P	5	31	31	UNIV	UNIV	Working	Working	14.52531646	53.39	47.18	23.26	CG	CT	Good	Severe	Likely Problematic	Normal
+2095	NASD	1	L	4	32	32	UNIV	UNIV	Not working	Working	1.160337553	68.5	0	22.63	CG	CT	Good	Severe	Likely Problematic	Normal
+2096	NASD	2	L	3	28	28	UNIV	UNIV	Working	Working	10.84388186	0	0	22.12	CG	CC	Moderate	Severe	Likely Problematic	Normal
+2100	NASD	1	L	3	33	46	NON-UNIV	NON-UNIV	Not working	Working	1.360759494	12.68	7.93	22.45	CG	CC	Moderate	Severe	Likely Problematic	Normal
+2049	NASD	2	L	2	30	31	NON-UNIV	UNIV	Not working	Working	1.561181435	17.64	19.54	24.15	CC	CC	Moderate	Severe	Likely Problematic	Normal
+2013	NASD	2	L	3	34	35	UNIV	UNIV	Not working	Working	3.544303797	0	10.03	22.33	CC	CT	Moderate	Severe	Likely Problematic	Normal
+2005	NASD	2	L	3	31	33	UNIV	UNIV	Not working	Working	9.345991561	0	5.53	22.16	CG	CT	Moderate	Severe	Likely Problematic	Normal
+2089	NASD	2	L	2	26	31	UNIV	UNIV	Not working	Working	8.206751055	0	0	23.61	CG	CT	Moderate	Severe	Likely Problematic	Normal
+2097	NASD	1	L	4	30	32	UNIV	NON-UNIV	Not working	Working	5.717299578	0	0	22.87	CG	CT	Moderate	Severe	Likely Problematic	Normal
+2093	NASD	1	P	4	30	32	UNIV	UNIV	Not working	Working	11.0021097	0	0	24.68	GG	CT	Moderate	Severe	Likely Problematic	Normal
+2076	NASD	2	L	2	33	34	UNIV	UNIV	Working	Working	13.23839662	21.3	0	21.62	CC	CT	Moderate	Severe	Likely Problematic	Normal
+2082	NASD	2	L	4	36	36	UNIV	UNIV	Working	Working	11.01265823	28.05	28.17	23.21	GG	CT	Moderate	Severe	Likely Problematic	Normal
+2062	NASD	1	L	5	39	39	UNIV	UNIV	Working	Not working	13.77637131	29.79	35.94	23.7	CC	CT	Moderate	Severe	Likely Problematic	Normal
+2094	NASD	2	L	3	30	31	UNIV	UNIV	Not working	Working	12.85864979	36.11	29.45	22.69	CG	CT	Moderate	Severe	Likely Problematic	Normal
+2050	NASD	2	P	2	27	28	UNIV	NON-UNIV	Working	Working	9.430379747	58.45	74.59	24.01	CC	CT	Moderate	Severe	Likely Problematic	Normal
+2058	NASD	3	P	3	31	32	UNIV	UNIV	Not working	Working	14.73628692	68.6	84.96	24.11	CG	CT	Moderate	Severe	Likely Problematic	Normal
+2044	NASD	3	L	5	40	37	UNIV	UNIV	Not working	Working	7.426160338	10.2	12.22	24.83	CC	CC	Moderate	Moderate	Problematic	Normal
+2009	NASD	1	P	4	38	39	UNIV	UNIV	Working	Working	11.0443038	22.26	26.57	22.26	CC	CT	Good	Severe	Problematic	Normal
+2007	NASD	1	L	5	31	33	UNIV	UNIV	Not working	Working	8.080168776	31.91	9.54	21.39	CC	CT	Good	Severe	Problematic	Normal
+2028	NASD	2	P	4	33	32	UNIV	S3	Not working	Working	16.11814346	0.08	6.18	22.41	CG	CT	Moderate	Severe	Problematic	Normal
+2015	NASD	2	P	5	32	33	UNIV	UNIV	Working	Working	3.607594937	15.99	18.05	21.45	GG	CT	Moderate	Severe	Problematic	Normal
+2016	NASD	1	L	5	31	35	UNIV	UNIV	Not working	Working	11.93037975	19.45	30.79	20.79	CC	CT	Moderate	Severe	Problematic	Normal
+2022	NASD	2	P	5	31	32	UNIV	UNIV	Working	Working	9.609704641	20.69	22.11	20.08	CG	CT	Moderate	Severe	Problematic	Normal
+2019	NASD	1	L	4	39	38	UNIV	NON-UNIV	Working	Working	1.751054852	26.1	33.09	21.33	CG	CT	Moderate	Severe	Problematic	Normal
+2069	NASD	2	L	5	39	39	UNIV	UNIV	Not working	Working	7.689873418	27.13	0	22.51	CG	CT	Moderate	Severe	Problematic	Normal
+2033	NASD	2	L	2	32	32	UNIV	UNIV	Not working	Working	11.19198312	30.24	26.28	22.78	CC	CT	Moderate	Severe	Problematic	Normal
+2024	NASD	2	P	3	31	32	UNIV	UNIV	Working	Working	6.466244726	59.88	73.88	20.94	CG	CT	Moderate	Severe	Problematic	Normal
+2048	NASD	2	P	3	31	38	UNIV	UNIV	Working	Working	1.782700422	0	9.04	23.23	CC	CC	Worse	Severe	Problematic	Normal
+2052	NASD	2	P	3	30	36	UNIV	UNIV	Not working	Working	11.88818565	0	8.51	24.63	CC	CT	Good	Moderate	Typical	Normal
+2031	NASD	1	P	5	32	30	UNIV	UNIV	Working	Working	10.68565401	0	1.7	21.63	CG	CT	Good	Moderate	Typical	Normal
+2043	NASD	2	P	5	30	33	UNIV	UNIV	Not working	Working	12.54219409	0	0	27.36	CG	CT	Good	Moderate	Typical	Normal
+2071	NASD	3	L	4	29	32	UNIV	UNIV	Not working	Working	8.185654008	0	0	23.3	CG	CT	Good	Moderate	Typical	Normal
+2098	NASD	2	L	2	32	32	UNIV	UNIV	Not working	Working	11.40295359	0	0	21.4	CG	CT	Good	Moderate	Typical	Normal
+2066	NASD	2	L	5	32	38	UNIV	NON-UNIV	Not working	Working	7.626582278	5.25	0	22.62	CG	CT	Good	Moderate	Typical	Normal
+2067	NASD	2	P	3	32	38	UNIV	NON-UNIV	Not working	Working	11.1814346	6.59	0	22.4	CC	CT	Good	Moderate	Typical	Normal
+2012	NASD	1	L	3	30	30	UNIV	UNIV	Not working	Working	12.06751055	7.89	10.95	21.46	CC	CT	Good	Moderate	Typical	Normal
+2099	NASD	2	L	4	32	37	UNIV	UNIV	Not working	Working	3.185654008	25.09	0	21.63	CC	CT	Good	Moderate	Typical	Normal
+2011	NASD	2	P	3	32	34	UNIV	UNIV	Not working	Working	10.39029536	32.54	55.81	22.49	CC	CT	Good	Moderate	Typical	Normal
+2046	NASD	3	L	3	38	39	UNIV	UNIV	Not working	Working	1.41350211	0	13.38	25.16	CC	CC	Moderate	Moderate	Typical	Normal
+2101	NASD	2	P	3	32	33	UNIV	UNIV	Working	Working	18.23839662	0.18	5.86	22.99	CG	CC	Moderate	Moderate	Typical	Normal
+2020	NASD	2	P	4	33	31	UNIV	UNIV	Not working	Working	3.111814346	20.69	33.52	23.01	CC	CC	Moderate	Moderate	Typical	Normal
+2029	NASD	1	L	3	27	30	UNIV	UNIV	Working	Working	10.70675105	21.02	19.78	21.84	CC	CC	Moderate	Moderate	Typical	Normal
+2045	NASD	3	L	3	40	37	UNIV	UNIV	Working	Working	5.833333333	35.76	56.24	22.95	CC	CC	Moderate	Moderate	Typical	Normal
+2017	NASD	2	L	3	30	35	UNIV	NON-UNIV	Not working	Working	17.41561181	0	7.97	22.72	CC	CT	Moderate	Moderate	Typical	Normal
+2025	NASD	1	P	5	31	32	UNIV	UNIV	Working	Working	1.867088608	0	16.37	22.47	CC	CT	Moderate	Moderate	Typical	Normal
+2081	NASD	2	L	5	31	31	UNIV	UNIV	Not working	Working	1.202531646	0	0	22.59	CC	CT	Moderate	Moderate	Typical	Normal
+2085	NASD	2	P	2	31	30	UNIV	UNIV	Not working	Working	7.563291139	0	0	22.69	CC	CT	Moderate	Moderate	Typical	Normal
+2087	NASD	2	P	3	33	33	UNIV	UNIV	Not working	Working	11.26582278	0	0	23.53	CC	CT	Moderate	Moderate	Typical	Normal
+2072	NASD	3	P	2	29	32	UNIV	UNIV	Not working	Working	1.234177215	0	0	22.51	CG	CT	Moderate	Moderate	Typical	Normal
+2039	NASD	1	L	3	33	35	UNIV	UNIV	Working	Working	10.54852321	0	1.7	21.63	GG	CT	Moderate	Moderate	Typical	Normal
+2053	NASD	2	L	2	28	28	UNIV	UNIV	Not working	Working	14.78902954	0	0	24.38	GG	CT	Moderate	Moderate	Typical	Normal
+2074	NASD	2	P	4	35	43	UNIV	UNIV	Working	Not working	9.894514768	0	0	22.48	GG	CT	Moderate	Moderate	Typical	Normal
+2055	NASD	2	P	4	31	31	NON-UNIV	UNIV	Not working	Working	18.57594937	2.79	17.51	23.15	CC	CT	Moderate	Moderate	Typical	Normal
+2068	NASD	2	L	3	35	35	UNIV	UNIV	Working	Working	1.202531646	8.2	18.23	22.54	CC	CT	Moderate	Moderate	Typical	Normal
+2042	NASD	2	P	4	36	38	UNIV	UNIV	Working	Working	2.183544304	8.39	28.04	23.76	GG	CT	Moderate	Moderate	Typical	Normal
+2063	NASD	3	L	5	31	31	UNIV	UNIV	Working	Working	9.767932489	8.94	3.26	22.4	CG	CT	Moderate	Moderate	Typical	Normal
+2060	NASD	2	L	2	33	34	UNIV	UNIV	Working	Working	13.85021097	16.05	31.34	22.41	GG	CT	Moderate	Moderate	Typical	Normal
+2014	NASD	2	L	2	29	29	UNIV	UNIV	Not working	Working	2.246835443	33.43	30.26	20.55	CG	CT	Moderate	Moderate	Typical	Normal
+2032	NASD	2	L	5	33	33	UNIV	UNIV	Working	Working	11.19198312	33.88	32.82	21.9	CC	CT	Moderate	Moderate	Typical	Normal
+2018	NASD	1	L	3	31	35	UNIV	UNIV	Working	Working	12.80590717	37.65	35.29	22.87	CG	CT	Moderate	Moderate	Typical	Normal
+2041	NASD	2	P	3	36	38	UNIV	UNIV	Working	Working	2.078059072	44.11	53.33	22.84	CG	CT	Moderate	Moderate	Typical	Normal
+2054	NASD	2	L	3	27	28	UNIV	UNIV	Not working	Working	12.2257384	0	7.4	24.74	CC	CT	Good	Severe	Typical	Normal
+2037	NASD	3	P	4	30	32	UNIV	UNIV	Working	Working	7.447257384	0	4.13	21.92	CG	CT	Good	Severe	Typical	Normal
+2080	NASD	1	P	3	29	30	UNIV	UNIV	Not working	Working	1.888185654	0	0	22.58	GG	CT	Good	Severe	Typical	Normal
+2090	NASD	2	P	3	28	29	UNIV	UNIV	Working	Working	1.635021097	0	0	24.1	GG	CT	Good	Severe	Typical	Normal
+2079	NASD	1	P	5	34	38	UNIV	UNIV	Working	Working	10.61181435	4.27	0	20.53	GG	CT	Good	Severe	Typical	Normal
+2059	NASD	2	P	3	29	37	UNIV	UNIV	Not working	Working	15.11603376	19.77	28.03	24.25	CG	CT	Good	Severe	Typical	Normal
+2051	NASD	2	P	2	29	29	UNIV	UNIV	Not working	Working	11.87763713	30.09	39.07	23.24	CC	CT	Good	Severe	Typical	Normal
+2084	NASD	2	P	2	31	29	UNIV	UNIV	Not working	Working	6.582278481	30.18	41.32	20.76	CC	CT	Good	Severe	Typical	Normal
+2002	NASD	3	L	4	36	37	UNIV	UNIV	Not working	Working	11.33966245	40.71	40.51	21.64	CC	CT	Good	Severe	Typical	Normal
+2027	NASD	2	P	5	31	33	UNIV	NON-UNIV	Working	Working	20	50.19	51.04	22.78	CG	CT	Good	Severe	Typical	Normal
+2064	NASD	2	L	3	32	31	UNIV	UNIV	Not working	Working	13.20675105	59.86	59.2	23.88	CG	CT	Good	Severe	Typical	Normal
+2023	NASD	1	P	4	27	29	UNIV	UNIV	Working	Working	11.86708861	0	3.37	21.64	CC	CC	Moderate	Severe	Typical	Normal
+2047	NASD	3	L	5	38	39	UNIV	UNIV	Not working	Working	1.191983122	0	1.7	24.2	CC	CC	Moderate	Severe	Typical	Normal
+2056	NASD	2	L	3	27	27	UNIV	UNIV	Working	Working	14.17721519	0	2.56	22.79	CC	CT	Moderate	Severe	Typical	Normal
+2057	NASD	3	P	3	30	41	UNIV	UNIV	Working	Working	11.97257384	0	1.7	24.8	CC	CT	Moderate	Severe	Typical	Normal
+2077	NASD	1	P	4	43	44	UNIV	S3	Working	Working	1.297468354	0	0	22.68	CC	CT	Moderate	Severe	Typical	Normal
+2001	NASD	1	L	4	37	42	UNIV	UNIV	Working	Working	8.744725738	0	12.62	22.04	CG	CT	Moderate	Severe	Typical	Normal
+2083	NASD	2	P	5	28	29	UNIV	UNIV	Working	Working	1.265822785	0	0	22.52	CG	CT	Moderate	Severe	Typical	Normal
+2086	NASD	2	P	4	34	35	UNIV	UNIV	Not working	Working	15.46413502	0	0	24.31	CG	CT	Moderate	Severe	Typical	Normal
+2036	NASD	1	L	3	37	39	UNIV	UNIV	Not working	Working	6.054852321	10.62	11.39	21.84	CG	CT	Moderate	Severe	Typical	Normal
+2021	NASD	3	P	5	34	34	UNIV	UNIV	Working	Working	10.25316456	11.01	19.54	22.75	CG	CT	Moderate	Severe	Typical	Normal
+2003	NASD	1	P	4	30	32	UNIV	UNIV	Working	Working	9.989451477	15.74	40.25	22.02	CG	CT	Moderate	Severe	Typical	Normal
+2091	NASD	2	P	3	28	28	UNIV	UNIV	Not working	Working	12.58438819	19.6	28.57	23.09	CG	CT	Moderate	Severe	Typical	Normal
+2040	NASD	1	L	4	33	32	UNIV	UNIV	Not working	Working	8.765822785	22.55	38.59	0	CG	CT	Moderate	Severe	Typical	Normal
+2034	NASD	2	L	2	30	31	UNIV	UNIV	Not working	Working	1.592827004	23.38	35.52	21.31	CG	CT	Moderate	Severe	Typical	Normal
+2030	NASD	2	L	3	33	33	UNIV	UNIV	Working	Working	13.21729958	23.77	15.76	23.22	CC	CT	Moderate	Severe	Typical	Normal
+2038	NASD	1	P	5	33	35	UNIV	UNIV	Working	Working	10.88607595	26.91	27.52	22.33	CC	CT	Moderate	Severe	Typical	Normal
+2078	NASD	2	P	3	35	35	UNIV	UNIV	Working	Working	13.34388186	34.61	43.03	22.37	CC	CT	Moderate	Severe	Typical	Normal

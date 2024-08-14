@@ -1,0 +1,193 @@
+Kode	dom	sex	age	agemom	agedad	edumon	edudad	workmom	workdad	cmv_ai	il1b	il6	melatonin	il6_snp	il1b_snp	fish	bambi	ssp	scq
+1001	2	L	5	40	47	D3	S2	Bekerja	Bekerja	19.905	68.78	79.94	21.61	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1002	1	L	4	31	32	S2	S1	Bekerja	Bekerja	1.287	0.00	19.30	21.41	CG	CT	Baik	Berat	Mungkin Bermasalah	Tidak Normal
+1003	1	L	3	28	33	S1	S1	Tidak bekerja	Bekerja	14.357	0.00	15.04	21.44	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1004	2	L	4	33	36	S1	S1	Bekerja	Bekerja	3.797	4.14	35.54	20.39	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1005	1	P	5	35	40	S1	S1	Tidak bekerja	Bekerja	15	0.00	18.84	21.54	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1006	2	P	4	30	36	S2	S2	Tidak bekerja	Bekerja	4.093	27.53	41.72	23.17	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1007	2	L	5	32	32	S1	S1	Tidak bekerja	Bekerja	2.859	14.60	25.58	20.90	GG	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1008	2	L	4	27	28	D3	S1	Tidak bekerja	Bekerja	20.517	16.24	32.21	22.35	GG	CT	Sedang	Sedang	Tipikal	Tidak Normal
+1009	2	L	5	28	30	S1	SMA	Tidak bekerja	Bekerja	9.873	18.05	27.38	22.21	CG	CT	Baik	Berat	Bermasalah	Tidak Normal
+1010	2	L	5	39	41	S1	S1	Tidak bekerja	Bekerja	2.574	0.00	13.34	23.20	CG	CT	Baik	Sedang	Tipikal	Tidak Normal
+1011	1	P	5	42	47	S1	S1	Bekerja	Bekerja	1.371	0.00	14.05	21.47	CG	CT	Sedang	Berat	Tipikal	Tidak Normal
+1012	1	L	5	29	30	S1	S1	Tidak bekerja	Bekerja	17.827	68.78	80.35	21.29	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1013	1	L	5	38	44	D3	S1	Tidak bekerja	Bekerja	3.819	0.00	15.04	20.20	GG	CT	Sedang	Sedang	Bermasalah	Tidak Normal
+1014	3	L	4	36	37	S1	S1	Tidak bekerja	Bekerja	11.276	44.30	32.46	20.87	CC	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1015	1	L	4	40	58	SMA	S1	Bekerja	Bekerja	10.475	0.00	15.35	21.71	CG	CT	Sedang	Berat	Tipikal	Tidak Normal
+1016	1	L	3	26	33	SMA	SMA	Bekerja	Bekerja	6.762	21.14	26.51	20.26	GG	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1017	2	L	3	30	33	S1	S1	Bekerja	Bekerja	10.359	0.38	10.02	22.11	CG	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1018	1	L	4	36	36	S1	S2	Tidak bekerja	Bekerja	1.804	0.00	17.87	22.44	CC	CC	Sedang	Berat	Tipikal	Normal
+1019	3	L	3	30	33	SMA	S1	Tidak bekerja	Bekerja	16.15	9.20	29.87	21.68	CC	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1020	2	L	5	31	33	S1	S1	Tidak bekerja	Bekerja	9.589	0.00	7.38	21.49	GG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1021	1	L	4	25	35	SMA	SMA	Tidak bekerja	Tidak bekerja	9.304	45.57	66.48	20.69	CC	CT	Baik	Sedang	Mungkin Bermasalah	Tidak Normal
+1022	3	L	5	43	46	SMA	SMA	Tidak bekerja	Tidak bekerja	8.586	0.00	16.25	19.74	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1023	2	L	4	25	30	SMA	D3	Bekerja	Bekerja	6.962	43.13	66.10	20.40	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1024	1	L	4	36	38	S1	S2	Tidak bekerja	Bekerja	1.909	0.00	5.47	18.81	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1025	1	L	5	45	48	D3	S1	Tidak bekerja	Bekerja	2.184	0.00	10.02	22.59	CC	CT	Baik	Berat	Bermasalah	Tidak Normal
+1026	1	P	4	32	32	S1	D3	Tidak bekerja	Bekerja	1.582	0.00	3.22	21.25	CC	CT	Baik	Sedang	Bermasalah	Tidak Normal
+1027	2	L	3	34	32	S1	S1	Bekerja	Bekerja	3.386	34.51	48.99	21.58	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1029	2	L	3	27	27	SMA	SMA	Tidak bekerja	Bekerja	9.525	12.97	26.64	20.91	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1030	2	L	5	31	32	S2	S2	Bekerja	Bekerja	2.669	22.09	30.35	21.76	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1031	1	L	3	32	35	S1	S1	Tidak bekerja	Bekerja	1.582	2.79	17.61	20.77	CG	CC	Baik	Tidak Bermasalah	Mungkin Bermasalah	Tidak Normal
+1032	1	L	5	33	33	S1	S1	Tidak bekerja	Tidak bekerja	17.078	21.69	25.16	20.70	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1033	2	L	3	38	37	S1	S1	Tidak bekerja	Bekerja	12.205	32.85	32.70	25.20	CC	CT	Buruk	Berat	Mungkin Bermasalah	Tidak Normal
+1034	1	L	5	33	33	S1	S2	Tidak bekerja	Bekerja	1.15	0.00	53.07	22.03	CG	CC	Baik	Sedang	Mungkin Bermasalah	Tidak Normal
+1035	2	L	5	32	34	S1	S1	Tidak bekerja	Bekerja	12.31	28.16	39.37	21.67	CC	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1036	1	P	4	26	32	SMA	SMA	Tidak bekerja	Bekerja	12.753	0.00	16.25	20.74	CC	CT	Sedang	Berat	Tipikal	Normal
+1037	2	P	5	37	37	S1	S2	Tidak bekerja	Bekerja	2.648	0.00	26.25	21.11	CC	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+1038	1	L	3	27	28	S1	S1	Tidak bekerja	Bekerja	13.407	2.79	18.12	19.31	CG	CT	Sedang	Sedang	Bermasalah	Tidak Normal
+1039	2	L	4	32	33	S2	S1	Tidak bekerja	Bekerja	1.551	13.54	17.61	21.26	CG	CT	Sedang	Sedang	Tipikal	Normal
+1040	3	L	4	31	31	D3	S1	Bekerja	Bekerja	1.783	0.00	6.77	22.11	CC	CT	Baik	Tidak Bermasalah	Tipikal	Normal
+1041	1	L	3	29	39	SMA	S1	Tidak bekerja	Bekerja	18.713	0.00	14.05	23.50	CG	CC	Sedang	Sedang	Mungkin Bermasalah	Normal
+1042	2	L	3	35	35	S2	S1	Bekerja	Bekerja	12.553	21.69	23.82	20.36	CC	CT	Baik	Berat	Bermasalah	Tidak Normal
+1043	2	L	5	38	38	S1	S1	Tidak bekerja	Bekerja	1.487	0.00	19.96	22.35	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1044	2	L	5	30	35	D3	SMA	Tidak bekerja	Bekerja	20.084	0.00	15.04	22.04	CG	CT	Baik	Berat	Mungkin Bermasalah	Tidak Normal
+1045	3	L	4	36	37	SMA	S1	Bekerja	Bekerja	8.745	53.24	67.49	20.68	CC	CT	Baik	Sedang	Bermasalah	Tidak Normal
+1046	3	P	5	36	40	S1	S1	Tidak bekerja	Bekerja	9.03	0.00	8.50	19.46	CC	CT	Sedang	Sedang	Bermasalah	Tidak Normal
+1047	1	L	4	38	38	S1	S1	Tidak bekerja	Bekerja	11.382	11.41	15.04	21.15	CG	CT	Sedang	Sedang	Tipikal	Tidak Normal
+1048	2	L	4	33	31	S1	D3	Tidak bekerja	Bekerja	3.481	49.18	62.94	21.59	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1049	2	L	4	32	37	D3	S1	Tidak bekerja	Bekerja	3.08	33.21	44.02	22.85	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1050	2	L	5	34	34	S1	S1	Tidak bekerja	Bekerja	20.095	70.10	80.23	22.28	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1051	1	P	5	41	39	S3	S1	Bekerja	Bekerja	6.435	39.47	49.02	22.16	CG	CC	Baik	Berat	Tipikal	Normal
+1052	2	L	4	41	45	S1	S1	Tidak bekerja	Bekerja	11.108	0.00	17.35	22.54	CG	CT	Sedang	Berat	Tipikal	Normal
+1053	3	L	4	31	37	SMA	S1	Tidak bekerja	Bekerja	14.019	63.42	72.75	21.99	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1054	2	P	4	31	40	S1	S1	Tidak bekerja	Bekerja	12.068	4.14	17.61	21.12	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1055	3	L	5	37	44	S1	S1	Tidak bekerja	Bekerja	1.266	26.41	26.77	21.89	CG	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1056	1	L	4	30	33	D3	S1	Tidak bekerja	Bekerja	5.116	52.97	53.19	20.76	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1057	1	L	4	31	39	SMA	S1	Tidak bekerja	Bekerja	11.276	69.47	80.53	21.32	CC	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1058	1	L	4	26	29	D3	SMA	Tidak bekerja	Tidak bekerja	13.217	22.48	29.47	21.57	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1059	1	P	5	36	35	S1	S1	Bekerja	Bekerja	2.605	33.46	37.89	21.67	CG	CT	Baik	Berat	Tipikal	Normal
+1060	3	P	5	36	37	S1	S2	Tidak bekerja	Bekerja	9.578	9.20	28.41	21.20	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1061	2	P	3	30	31	S1	S1	Tidak bekerja	Bekerja	3.122	12.37	23.50	21.67	CC	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1062	2	L	3	40	46	D3	S1	Tidak bekerja	Bekerja	1.582	0.00	9.53	21.85	GG	CT	Baik	Sedang	Tipikal	Normal
+1063	2	P	3	27	29	S1	SMA	Bekerja	Bekerja	11.487	43.61	61.95	21.05	CC	CT	Sedang	Berat	Tipikal	Tidak Normal
+1064	2	P	2	44	43	S1	S1	Tidak bekerja	Bekerja	1.688	28.70	21.94	23.49	CC	CT	Sedang	Berat	Tipikal	Normal
+1065	1	L	4	29	31	SMA	SMA	Tidak bekerja	Bekerja	9.705	9.99	18.61	23.24	CG	CT	Baik	Berat	Bermasalah	Tidak Normal
+1066	2	L	5	30	31	SMA	S1	Tidak bekerja	Bekerja	12.595	38.41	11.79	22.31	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1067	1	L	4	35	38	S2	S1	Bekerja	Bekerja	11.424	48.93	50.69	22.05	CG	CT	Baik	Berat	Mungkin Bermasalah	Normal
+1068	3	L	4	31	33	D3	S1	Tidak bekerja	Bekerja	11.814	0.00	13.34	21.79	CC	CC	Sedang	Berat	Mungkin Bermasalah	Normal
+1069	2	P	5	33	34	S1	S1	Bekerja	Tidak bekerja	9.589	0.00	21.19	22.01	CC	CT	Baik	Sedang	Tipikal	Normal
+1071	2	L	3	34	32	D3	S1	Tidak bekerja	Bekerja	18.85	0.00	13.70	22.47	CC	CT	Baik	Berat	Bermasalah	Tidak Normal
+1072	1	L	4	35	52	S1	S1	Tidak bekerja	Bekerja	2.743	0.00	10.48	21.93	CG	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1073	1	P	5	32	37	S1	SMA	Tidak bekerja	Bekerja	3.618	58.71	76.41	21.27	CG	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1074	1	P	5	34	35	S1	S1	Tidak bekerja	Bekerja	2.194	2.04	12.59	24.23	CC	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1075	1	L	5	30	30	S1	D3	Tidak bekerja	Bekerja	8.523	0.00	11.79	23.00	GG	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1077	2	L	3	31	38	S1	D3	Tidak bekerja	Bekerja	9.146	20.70	26.77	21.07	GG	CT	Sedang	Sedang	Bermasalah	Tidak Normal
+1078	1	L	4	33	33	S1	S1	Tidak bekerja	Bekerja	8.586	14.34	23.17	22.60	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1079	3	P	5	36	36	S2	S2	Bekerja	Bekerja	3.618	58.76	74.53	23.49	CC	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1080	2	L	3	32	31	S1	S1	Bekerja	Bekerja	3.481	0.00	9.03	21.95	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1081	1	L	5	39	46	SMA	SMA	Tidak bekerja	Bekerja	18.428	21.19	24.44	21.83	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1082	1	L	5	40	43	S1	S2	Bekerja	Bekerja	2.827	0.00	61.06	22.03	CG	CT	Baik	Berat	Bermasalah	Tidak Normal
+1083	1	P	5	40	41	S1	S2	Bekerja	Bekerja	3.017	0.00	10.95	20.79	CC	CT	Sedang	Sedang	Tipikal	Normal
+1084	1	L	4	36	38	S1	S1	Bekerja	Bekerja	10.359	7.89	18.82	20.86	CC	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1085	2	L	4	35	35	S1	S1	Bekerja	Bekerja	13.312	1.06	18.31	20.93	CC	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1086	1	L	5	39	40	D3	SMA	Tidak bekerja	Bekerja	14.262	19.82	23.93	20.39	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1087	2	L	3	32	31	S1	S1	Bekerja	Bekerja	12.068	0.00	13.38	21.40	GG	CT	Sedang	Sedang	Bermasalah	Tidak Normal
+1088	2	P	5	29	29	S1	S1	Tidak bekerja	Bekerja	8.713	16.24	19.78	21.38	CC	CT	Baik	Berat	Bermasalah	Tidak Normal
+1089	2	L	4	31	32	S2	S1	Tidak bekerja	Bekerja	12.964	7.37	16.67	20.91	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1090	1	P	5	32	32	S1	S1	Tidak bekerja	Bekerja	2.236	0.00	4.13	21.20	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1091	2	L	4	33	38	S1	S1	Bekerja	Bekerja	14.61	32.66	42.45	20.69	GG	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1092	2	L	3	32	33	D3	D3	Bekerja	Bekerja	14.852	23.64	28.53	20.97	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1093	1	P	4	28	30	D3	S1	Tidak bekerja	Bekerja	13.597	12.13	18.57	21.16	CC	CT	Sedang	Berat	Mungkin Bermasalah	Tidak Normal
+1094	1	L	4	30	31	S1	S1	Bekerja	Bekerja	11.023	1.06	19.30	20.60	CC	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1095	2	L	4	39	60	SMA	S2	Bekerja	Bekerja	9.177	53.47	62.97	20.64	GG	CT	Baik	Berat	Mungkin Bermasalah	Tidak Normal
+1096	2	L	5	32	37	S2	S1	Tidak bekerja	Bekerja	6.593	5.63	14.11	21.99	CG	CT	Baik	Berat	Bermasalah	Tidak Normal
+1097	2	L	5	32	33	S1	S1	Tidak bekerja	Bekerja	8.344	0.00	10.03	21.44	CC	CT	Baik	Sedang	Mungkin Bermasalah	Normal
+1098	2	L	5	28	28	SMA	SMA	Tidak bekerja	Bekerja	2.722	7.37	10.49	20.35	CG	CT	Sedang	Berat	Bermasalah	Tidak Normal
+1099	2	L	5	37	40	S2	S1	Bekerja	Bekerja	1.561	0.00	13.38	20.71	CC	CC	Sedang	Berat	Bermasalah	Tidak Normal
+1100	2	L	5	41	43	S1	S1	Bekerja	Bekerja	10.285	0.00	10.95	21.74	CC	CC	Sedang	Sedang	Mungkin Bermasalah	Tidak Normal
+1101	2	L	5	29	29	SMA	SMA	Tidak bekerja	Bekerja	1.234	13.46	13.38	20.93	CC	CC	Sedang	Berat	Bermasalah	Normal
+2001	1	L	4	37	42	S1	S1	Bekerja	Bekerja	8.744725738	0.00	12.62	22.04	CG	CT	Sedang	Berat	Tipikal	Normal
+2002	3	L	4	36	37	S1	S1	Tidak bekerja	Bekerja	11.33966245	40.71	40.51	21.64	CC	CT	Baik	Berat	Tipikal	Normal
+2003	1	P	4	30	32	S2	S1	Bekerja	Bekerja	9.989451477	15.74	40.25	22.02	CG	CT	Sedang	Berat	Tipikal	Normal
+2005	2	L	3	31	33	S1	S1	Tidak bekerja	Bekerja	9.345991561	0.00	5.53	22.16	CG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2007	1	L	5	31	33	S1	S1	Tidak bekerja	Bekerja	8.080168776	31.91	9.54	21.39	CC	CT	Baik	Berat	Bermasalah	Normal
+2008	1	L	4	32	32	S1	D3	Tidak bekerja	Bekerja	1.339662447	18.28	19.54	21.52	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Normal
+2009	1	P	4	38	39	S1	S1	Bekerja	Bekerja	11.0443038	22.26	26.57	22.26	CC	CT	Baik	Berat	Bermasalah	Normal
+2011	2	P	3	32	34	S1	S1	Tidak bekerja	Bekerja	10.39029536	32.54	55.81	22.49	CC	CT	Baik	Sedang	Tipikal	Normal
+2012	1	L	3	30	30	S1	S1	Tidak bekerja	Bekerja	12.06751055	7.89	10.95	21.46	CC	CT	Baik	Sedang	Tipikal	Normal
+2013	2	L	3	34	35	S1	S2	Tidak bekerja	Bekerja	3.544303797	0.00	10.03	22.33	CC	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2014	2	L	2	29	29	S1	S2	Tidak bekerja	Bekerja	2.246835443	33.43	30.26	20.55	CG	CT	Sedang	Sedang	Tipikal	Normal
+2015	2	P	5	32	33	S1	S1	Bekerja	Bekerja	3.607594937	15.99	18.05	21.45	GG	CT	Sedang	Berat	Bermasalah	Normal
+2016	1	L	5	31	35	S1	S1	Tidak bekerja	Bekerja	11.93037975	19.45	30.79	20.79	CC	CT	Sedang	Berat	Bermasalah	Normal
+2017	2	L	3	30	35	D3	SMA	Tidak bekerja	Bekerja	17.41561181	0.00	7.97	22.72	CC	CT	Sedang	Sedang	Tipikal	Normal
+2018	1	L	3	31	35	S2	S1	Bekerja	Bekerja	12.80590717	37.65	35.29	22.87	CG	CT	Sedang	Sedang	Tipikal	Normal
+2019	1	L	4	39	38	S1	SMA	Bekerja	Bekerja	1.751054852	26.10	33.09	21.33	CG	CT	Sedang	Berat	Bermasalah	Normal
+2020	2	P	4	33	31	S1	D3	Tidak bekerja	Bekerja	3.111814346	20.69	33.52	23.01	CC	CC	Sedang	Sedang	Tipikal	Normal
+2021	3	P	5	34	34	S1	S1	Bekerja	Bekerja	10.25316456	11.01	19.54	22.75	CG	CT	Sedang	Berat	Tipikal	Normal
+2022	2	P	5	31	32	S1	S1	Bekerja	Bekerja	9.609704641	20.69	22.11	20.08	CG	CT	Sedang	Berat	Bermasalah	Normal
+2023	1	P	4	27	29	S1	S1	Bekerja	Bekerja	11.86708861	0.00	3.37	21.64	CC	CC	Sedang	Berat	Tipikal	Normal
+2024	2	P	3	31	32	S1	S1	Bekerja	Bekerja	6.466244726	59.88	73.88	20.94	CG	CT	Sedang	Berat	Bermasalah	Normal
+2025	1	P	5	31	32	S1	S1	Bekerja	Bekerja	1.867088608	0.00	16.37	22.47	CC	CT	Sedang	Sedang	Tipikal	Normal
+2026	1	P	5	31	31	S1	S1	Bekerja	Bekerja	14.52531646	53.39	47.18	23.26	CG	CT	Baik	Berat	Mungkin Bermasalah	Normal
+2027	2	P	5	31	33	S1	SMA	Bekerja	Bekerja	20	50.19	51.04	22.78	CG	CT	Baik	Berat	Tipikal	Normal
+2028	2	P	4	33	32	S1	S3	Tidak bekerja	Bekerja	16.11814346	0.08	6.18	22.41	CG	CT	Sedang	Berat	Bermasalah	Normal
+2029	1	L	3	27	30	S1	S1	Bekerja	Bekerja	10.70675105	21.02	19.78	21.84	CC	CC	Sedang	Sedang	Tipikal	Normal
+2030	2	L	3	33	33	S2	S1	Bekerja	Bekerja	13.21729958	23.77	15.76	23.22	CC	CT	Sedang	Berat	Tipikal	Normal
+2031	1	P	5	32	30	S2	S1	Bekerja	Bekerja	10.68565401	0.00	1.70	21.63	CG	CT	Baik	Sedang	Tipikal	Normal
+2032	2	L	5	33	33	S1	S2	Bekerja	Bekerja	11.19198312	33.88	32.82	21.90	CC	CT	Sedang	Sedang	Tipikal	Normal
+2033	2	L	2	32	32	S1	D3	Tidak bekerja	Bekerja	11.19198312	30.24	26.28	22.78	CC	CT	Sedang	Berat	Bermasalah	Normal
+2034	2	L	2	30	31	S1	S1	Tidak bekerja	Bekerja	1.592827004	23.38	35.52	21.31	CG	CT	Sedang	Berat	Tipikal	Normal
+2035	2	L	4	29	33	S1	SMA	Bekerja	Bekerja	8.554852321	35.52	41.68	23.12	CG	CT	Baik	Berat	Mungkin Bermasalah	Normal
+2036	1	L	3	37	39	S1	S1	Tidak bekerja	Bekerja	6.054852321	10.62	11.39	21.84	CG	CT	Sedang	Berat	Tipikal	Normal
+2037	3	P	4	30	32	S1	S1	Bekerja	Bekerja	7.447257384	0.00	4.13	21.92	CG	CT	Baik	Berat	Tipikal	Normal
+2038	1	P	5	33	35	D3	S1	Bekerja	Bekerja	10.88607595	26.91	27.52	22.33	CC	CT	Sedang	Berat	Tipikal	Normal
+2039	1	L	3	33	35	S1	S1	Bekerja	Bekerja	10.54852321	0.00	1.70	21.63	GG	CT	Sedang	Sedang	Tipikal	Normal
+2040	1	L	4	33	32	S1	S1	Tidak bekerja	Bekerja	8.765822785	22.55	38.59	0.00	CG	CT	Sedang	Berat	Tipikal	Normal
+2041	2	P	3	36	38	S1	S1	Bekerja	Bekerja	2.078059072	44.11	53.33	22.84	CG	CT	Sedang	Sedang	Tipikal	Normal
+2042	2	P	4	36	38	S1	S1	Bekerja	Bekerja	2.183544304	8.39	28.04	23.76	GG	CT	Sedang	Sedang	Tipikal	Normal
+2043	2	P	5	30	33	D3	D3	Tidak bekerja	Bekerja	12.54219409	0.00	0.00	27.36	CG	CT	Baik	Sedang	Tipikal	Normal
+2044	3	L	5	40	37	S2	S1	Tidak bekerja	Bekerja	7.426160338	10.20	12.22	24.83	CC	CC	Sedang	Sedang	Bermasalah	Normal
+2045	3	L	3	40	37	S2	S1	Bekerja	Bekerja	5.833333333	35.76	56.24	22.95	CC	CC	Sedang	Sedang	Tipikal	Normal
+2046	3	L	3	38	39	S1	D3	Tidak bekerja	Bekerja	1.41350211	0.00	13.38	25.16	CC	CC	Sedang	Sedang	Tipikal	Normal
+2047	3	L	5	38	39	S1	D3	Tidak bekerja	Bekerja	1.191983122	0.00	1.70	24.20	CC	CC	Sedang	Berat	Tipikal	Normal
+2048	2	P	3	31	38	S1	S1	Bekerja	Bekerja	1.782700422	0.00	9.04	23.23	CC	CC	Buruk	Berat	Bermasalah	Normal
+2049	2	L	2	30	31	SMA	S1	Tidak bekerja	Bekerja	1.561181435	17.64	19.54	24.15	CC	CC	Sedang	Berat	Mungkin Bermasalah	Normal
+2050	2	P	2	27	28	S1	SMA	Bekerja	Bekerja	9.430379747	58.45	74.59	24.01	CC	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2051	2	P	2	29	29	D3	S1	Tidak bekerja	Bekerja	11.87763713	30.09	39.07	23.24	CC	CT	Baik	Berat	Tipikal	Normal
+2052	2	P	3	30	36	S1	S1	Tidak bekerja	Bekerja	11.88818565	0.00	8.51	24.63	CC	CT	Baik	Sedang	Tipikal	Normal
+2053	2	L	2	28	28	S1	D3	Tidak bekerja	Bekerja	14.78902954	0.00	0.00	24.38	GG	CT	Sedang	Sedang	Tipikal	Normal
+2054	2	L	3	27	28	S1	S1	Tidak bekerja	Bekerja	12.2257384	0.00	7.40	24.74	CC	CT	Baik	Berat	Tipikal	Normal
+2055	2	P	4	31	31	SMA	S1	Tidak bekerja	Bekerja	18.57594937	2.79	17.51	23.15	CC	CT	Sedang	Sedang	Tipikal	Normal
+2056	2	L	3	27	27	S1	D3	Bekerja	Bekerja	14.17721519	0.00	2.56	22.79	CC	CT	Sedang	Berat	Tipikal	Normal
+2057	3	P	3	30	41	S1	S1	Bekerja	Bekerja	11.97257384	0.00	1.70	24.80	CC	CT	Sedang	Berat	Tipikal	Normal
+2058	3	P	3	31	32	S1	S1	Tidak bekerja	Bekerja	14.73628692	68.60	84.96	24.11	CG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2059	2	P	3	29	37	S1	S1	Tidak bekerja	Bekerja	15.11603376	19.77	28.03	24.25	CG	CT	Baik	Berat	Tipikal	Normal
+2060	2	L	2	33	34	S1	S1	Bekerja	Bekerja	13.85021097	16.05	31.34	22.41	GG	CT	Sedang	Sedang	Tipikal	Normal
+2062	1	L	5	39	39	S2	S2	Bekerja	Tidak bekerja	13.77637131	29.79	35.94	23.70	CC	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2063	3	L	5	31	31	S2	S2	Bekerja	Bekerja	9.767932489	8.94	3.26	22.40	CG	CT	Sedang	Sedang	Tipikal	Normal
+2064	2	L	3	32	31	S2	S1	Tidak bekerja	Bekerja	13.20675105	59.86	59.20	23.88	CG	CT	Baik	Berat	Tipikal	Normal
+2065	1	L	3	30	30	S1	S1	Tidak bekerja	Bekerja	4.082278481	0.00	0.00	22.75	CG	CT	Sedang	Sedang	Mungkin Bermasalah	Normal
+2066	2	L	5	32	38	S1	SMA	Tidak bekerja	Bekerja	7.626582278	5.25	0.00	22.62	CG	CT	Baik	Sedang	Tipikal	Normal
+2067	2	P	3	32	38	S1	SMA	Tidak bekerja	Bekerja	11.1814346	6.59	0.00	22.40	CC	CT	Baik	Sedang	Tipikal	Normal
+2068	2	L	3	35	35	S1	S1	Bekerja	Bekerja	1.202531646	8.20	18.23	22.54	CC	CT	Sedang	Sedang	Tipikal	Normal
+2069	2	L	5	39	39	S2	S1	Tidak bekerja	Bekerja	7.689873418	27.13	0.00	22.51	CG	CT	Sedang	Berat	Bermasalah	Normal
+2071	3	L	4	29	32	S1	S1	Tidak bekerja	Bekerja	8.185654008	0.00	0.00	23.30	CG	CT	Baik	Sedang	Tipikal	Normal
+2072	3	P	2	29	32	S1	S1	Tidak bekerja	Bekerja	1.234177215	0.00	0.00	22.51	CG	CT	Sedang	Sedang	Tipikal	Normal
+2074	2	P	4	35	43	S1	D3	Bekerja	Tidak bekerja	9.894514768	0.00	0.00	22.48	GG	CT	Sedang	Sedang	Tipikal	Normal
+2076	2	L	2	33	34	S1	S2	Bekerja	Bekerja	13.23839662	21.30	0.00	21.62	CC	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2077	1	P	4	43	44	S2	S3	Bekerja	Bekerja	1.297468354	0.00	0.00	22.68	CC	CT	Sedang	Berat	Tipikal	Normal
+2078	2	P	3	35	35	S2	S1	Bekerja	Bekerja	13.34388186	34.61	43.03	22.37	CC	CT	Sedang	Berat	Tipikal	Normal
+2079	1	P	5	34	38	S2	S1	Bekerja	Bekerja	10.61181435	4.27	0.00	20.53	GG	CT	Baik	Berat	Tipikal	Normal
+2080	1	P	3	29	30	S1	D3	Tidak bekerja	Bekerja	1.888185654	0.00	0.00	22.58	GG	CT	Baik	Berat	Tipikal	Normal
+2081	2	L	5	31	31	S1	S1	Tidak bekerja	Bekerja	1.202531646	0.00	0.00	22.59	CC	CT	Sedang	Sedang	Tipikal	Normal
+2082	2	L	4	36	36	S1	S2	Bekerja	Bekerja	11.01265823	28.05	28.17	23.21	GG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2083	2	P	5	28	29	S1	S1	Bekerja	Bekerja	1.265822785	0.00	0.00	22.52	CG	CT	Sedang	Berat	Tipikal	Normal
+2084	2	P	2	31	29	S1	S2	Tidak bekerja	Bekerja	6.582278481	30.18	41.32	20.76	CC	CT	Baik	Berat	Tipikal	Normal
+2085	2	P	2	31	30	S1	S1	Tidak bekerja	Bekerja	7.563291139	0.00	0.00	22.69	CC	CT	Sedang	Sedang	Tipikal	Normal
+2086	2	P	4	34	35	S1	S1	Tidak bekerja	Bekerja	15.46413502	0.00	0.00	24.31	CG	CT	Sedang	Berat	Tipikal	Normal
+2087	2	P	3	33	33	S1	S1	Tidak bekerja	Bekerja	11.26582278	0.00	0.00	23.53	CC	CT	Sedang	Sedang	Tipikal	Normal
+2088	2	L	4	32	32	S1	S1	Tidak bekerja	Bekerja	9.778481013	0.00	0.00	23.09	GG	CT	Sedang	Sedang	Mungkin Bermasalah	Normal
+2089	2	L	2	26	31	D3	S1	Tidak bekerja	Bekerja	8.206751055	0.00	0.00	23.61	CG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2090	2	P	3	28	29	S1	S1	Bekerja	Bekerja	1.635021097	0.00	0.00	24.10	GG	CT	Baik	Berat	Tipikal	Normal
+2091	2	P	3	28	28	S1	S1	Tidak bekerja	Bekerja	12.58438819	19.60	28.57	23.09	CG	CT	Sedang	Berat	Tipikal	Normal
+2092	3	P	3	35	36	S1	S1	Bekerja	Bekerja	15.70675105	27.69	48.76	24.29	CG	CT	Baik	Berat	Mungkin Bermasalah	Normal
+2093	1	P	4	30	32	S1	S1	Tidak bekerja	Bekerja	11.0021097	0.00	0.00	24.68	GG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2094	2	L	3	30	31	S1	S1	Tidak bekerja	Bekerja	12.85864979	36.11	29.45	22.69	CG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2095	1	L	4	32	32	S1	S1	Tidak bekerja	Bekerja	1.160337553	68.50	0.00	22.63	CG	CT	Baik	Berat	Mungkin Bermasalah	Normal
+2096	2	L	3	28	28	S1	S1	Bekerja	Bekerja	10.84388186	0.00	0.00	22.12	CG	CC	Sedang	Berat	Mungkin Bermasalah	Normal
+2097	1	L	4	30	32	S1	SMA	Tidak bekerja	Bekerja	5.717299578	0.00	0.00	22.87	CG	CT	Sedang	Berat	Mungkin Bermasalah	Normal
+2098	2	L	2	32	32	S1	D3	Tidak bekerja	Bekerja	11.40295359	0.00	0.00	21.40	CG	CT	Baik	Sedang	Tipikal	Normal
+2099	2	L	4	32	37	S2	S1	Tidak bekerja	Bekerja	3.185654008	25.09	0.00	21.63	CC	CT	Baik	Sedang	Tipikal	Normal
+2100	1	L	3	33	46	SMA	SMA	Tidak bekerja	Bekerja	1.360759494	12.68	7.93	22.45	CG	CC	Sedang	Berat	Mungkin Bermasalah	Normal
+2101	2	P	3	32	33	S1	S1	Bekerja	Bekerja	18.23839662	0.18	5.86	22.99	CG	CC	Sedang	Sedang	Tipikal	Normal
