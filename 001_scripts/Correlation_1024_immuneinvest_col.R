@@ -24,6 +24,7 @@ library(scales)
   scale_colour_grey(start=0.2, end=0.1)+
   labs(y = "Levels of CMV Antibody \n (index)", 
        x ="Levels of IL1\u03B2 pg/mL")+ 
+    scale_color_npg()+
   theme(axis.text.x = element_text(face="bold", color="black", size=12),
         axis.text.y = element_text(face="bold", color="black", size=12),
         axis.title.x= element_text(face="bold",size =12),
@@ -32,6 +33,7 @@ library(scales)
 Fig_1 <- Fig_1 + facet_grid (. ~ group) + stat_cor(aes(color = group),
                                                    method = "spearman", label.x =0.1,label.y=23,size =4)+
   theme(strip.text.x =element_text(face="bold", color="black", size=12))
+
 Fig_1
 
 
@@ -44,6 +46,7 @@ Fig_1
     scale_colour_grey(start=0.2, end=0.1)+
     labs(y = "Levels of CMV Antibody \n (index)", 
          x ="Levels of IL6 (pg/mL)")+ 
+    scale_color_npg()+
     theme(axis.text.x = element_text(face="bold", color="black", size=12),
           axis.text.y = element_blank(),
           axis.title.x= element_text(face="bold",size =12),
@@ -64,6 +67,7 @@ Fig_2
     scale_colour_grey(start=0.3, end=0.1)+
     labs(y = "Eating behaviour \n BAMBI Score", 
          x ="Levels of IL1\u03B2 (pg/mL)")+ 
+    scale_color_npg()+
     theme(axis.text.x = element_text(face="bold", color="black", size=12),
           axis.text.y = element_text(face="bold", color="black", size=12),
           axis.title.x= element_text(face="bold",size =12),
@@ -83,6 +87,7 @@ Fig_3
     scale_colour_grey(start=0.3, end=0.1)+
     labs(y = "Eating behaviour \n BAMBI Score", 
          x ="Levels of IL6 (pg/mL)")+ 
+    scale_color_npg()+
     theme(axis.text.x = element_text(face="bold", color="black", size=12),
           axis.text.y = element_blank(),
           axis.title.x= element_text(face="bold",size =12),
@@ -93,7 +98,7 @@ Fig_4 <- Fig_4 + facet_grid (. ~ group) + stat_cor(aes(color = group),
   theme(strip.text.x =element_blank())
 Fig_4
 
-Combined_figs_1 <- ggarrange(Fig_1,
+Combined_figs_1_col <- ggarrange(Fig_1,
                              Fig_2,
                              Fig_3,
                              Fig_4,
@@ -105,8 +110,8 @@ Combined_figs_1 <- ggarrange(Fig_1,
                              common.legend = T,
                              legend= "none")
 
-Combined_figs_1
-ggsave ("Figure 1.png", width = 10, height = 12, dpi =600)
+Combined_figs_1_col
+ggsave ("Figure 1 col.png", width = 10, height = 12, dpi =600)
 
 #not included
 (Fig_5 <- ggplot(data_casdi4, aes(y =ssp, x = il1b, colour = group, shape=group)) +
@@ -118,6 +123,7 @@ ggsave ("Figure 1.png", width = 10, height = 12, dpi =600)
     scale_colour_grey(start=0.3, end=0.1)+
     labs(y = "Sensory Profile \n SSP Score", 
          x ="Levels of IL1\u03B2 (pg/mL)")+ 
+    scale_color_npg()+
     theme(axis.text.x = element_text(face="bold", color="black", size=12),
           axis.text.y = element_text(face="bold", color="black", size=12),
           axis.title.x= element_text(face="bold",size =12),
@@ -137,6 +143,7 @@ Fig_5
     scale_colour_grey(start=0.3, end=0.1)+
     labs(y = "Sensory Profile \n SSP Score", 
          x ="Levels of IL1\u03B2 (pg/mL)")+ 
+    scale_color_npg()+
     theme(axis.text.x = element_text(face="bold", color="black", size=12),
           axis.text.y = element_blank(),
           axis.title.x= element_text(face="bold",size =12),
