@@ -7,6 +7,12 @@ head(data_casdi)
 
 data_casdi2 <- read.table("D:/06_RCoding/CASDI/002_data/master_casdi24_il6.txt",na.string=c("","NA"),header=T, sep ="\t")
 
+data_casdi3 <- read.table("D:/06_RCoding/CASDI/002_data/master_casdi_1024.txt",na.string=c("","NA"),header=T, sep ="\t")
+
+data_casdi4 <- read.table("D:/06_RCoding/CASDI/002_data/master_casdi_publikasi.txt",na.string=c("","NA"),header=T, sep ="\t")
+
+#comparisons
+my_comparisons <- list( c("Typical", "Atypical"))
 #tidyverse
 library(tidyverse)
 data_casdi2  <- data_casdi2  %>%
