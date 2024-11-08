@@ -54,3 +54,7 @@ Combined_figs_0 <- ggarrange(Fig_A,
 Combined_figs_0
 
 ggsave ("Figure 0.png", width = 7, height = 9, dpi =600)
+ggsave ("Figure 0.TIFF", width = 7, height = 9, dpi =600)
+ggsave ("Figure 0.JPG", width = 7, height = 9, dpi =600)
+
+
